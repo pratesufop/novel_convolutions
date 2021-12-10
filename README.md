@@ -5,7 +5,7 @@ This repository implements some convolutional layers tailored to specific applic
 
 [Central Difference Convolution (CDC)](https://arxiv.org/abs/2003.04092)
 
-[Median Pixel Difference Convolution](https://bmvc2021-virtualconference.com/conference/papers/paper_0145.html)\\
+[Median Pixel Difference Convolution](https://bmvc2021-virtualconference.com/conference/papers/paper_0145.html)
 
 [LBPConv](https://arxiv.org/abs/1608.06049)
 
